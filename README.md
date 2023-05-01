@@ -24,6 +24,10 @@ Te cuento sobre mí:
 * Relator de Desarrollo de aplicaciones móviles en Android. 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agusCode88&hide_progress=true)](https://github.com/agusCode88/github-readme-stats)
+
+
+
 [![Gmail Badge](https://img.shields.io/badge/-agus.romero.salazar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agus.romero.salazar@gmail.com)](mailto:agus.romero.salazar@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-agustinRomeroSalazar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agustin-romero-salazar-01254465/)](https://www.linkedin.com/in/agustin-romero-salazar-01254465/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/agusCode88)](https://github.com/agusCode88)
