@@ -3,10 +3,13 @@
 [![banner.png](https://i.postimg.cc/nztg7Q93/banner.png)](https://postimg.cc/HJB61n2M)
 
 
-
 Te cuento sobre mí:
 
-- 🔭 Actualmente trabajo como relator de aplicaciones Android en el Bootcamp Android Andrés Bello.                   
+- 🔭 Actualmente trabajo como relator de aplicaciones Android en el Bootcamp Android Andrés Bello. 
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agusCode88&repo=CursoAndroidKotlin)](https://github.com/agusCode88/CursoAndroidKotlin)
+
+
 - 🌱 Estoy aprendiendo Kotlin para Android y Phyton en mis tiempos libres.
 - 👯 Busco colaborar en proyectos donde podamos trabajar en equipo.
 - 🤔 Me dediqué por 7 años a la programación de aplicaciones móviles
