@@ -9,8 +9,6 @@ Te cuento sobre mí:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agusCode88&repo=CursoAndroidKotlin)](https://github.com/agusCode88/CursoAndroidKotlin)
 
-
-- 🌱 Estoy aprendiendo Kotlin para Android y Phyton en mis tiempos libres.
 - 👯 Busco colaborar en proyectos donde podamos trabajar en equipo.
 - 🤔 Me dediqué por 7 años a la programación de aplicaciones móviles
 -    Estudié 3 años Astrología.
@@ -25,6 +23,10 @@ Te cuento sobre mí:
 * Diplomado en diseño e impresión 3D, Uniacc , Santiago de Chile
 * Relator de Desarrollo de aplicaciones móviles en Android. 
 
+
+[![Gmail Badge](https://img.shields.io/badge/-agus.romero.salazar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agus.romero.salazar@gmail.com)](mailto:agus.romero.salazar@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-agustinRomeroSalazar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agustin-romero-salazar-01254465/)](https://www.linkedin.com/in/agustin-romero-salazar-01254465/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/agusCode88)](https://github.com/agusCode88)
 
 
 [instagram]: (https://www.instagram.com/agus.code/)
