@@ -23,4 +23,9 @@ Te cuento sobre mí:
 * Relator de Desarrollo de aplicaciones móviles en Android. 
 
 
+
+[instagram]: (https://www.instagram.com/agus.code/)
+[linkedin]: (https://www.linkedin.com/in/agustin-romero-salazar-01254465/)
+
+
 Feliz codigo y Feliz Vida!
