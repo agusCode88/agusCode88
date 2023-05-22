@@ -1,6 +1,6 @@
 ### Hola soy AgusCode88 👋
 
-[![banner.png](https://i.postimg.cc/nztg7Q93/banner.png)](https://postimg.cc/HJB61n2M)
+[![banner.png](https://i.postimg.cc/nztg7Q93/banner.png)](https://postimg.cc/HJB61n2M)]
 
 
 Te cuento sobre mí:
