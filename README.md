@@ -1,13 +1,8 @@
 ### Hola soy AgusCode88 👋
 
-[![banner.png](https://i.postimg.cc/nztg7Q93/banner.png)](https://postimg.cc/HJB61n2M)
-
-
 Te cuento sobre mí:
 
 - 🔭 Actualmente trabajo como relator de aplicaciones Android en el Bootcamp Android Andrés Bello. 
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agusCode88&repo=CursoAndroidKotlin)](https://github.com/agusCode88/CursoAndroidKotlin)
 
 - 👯 Busco colaborar en proyectos donde podamos trabajar en equipo.
 - 🤔 Me dediqué por 7 años a la programación de aplicaciones móviles
@@ -22,9 +17,6 @@ Te cuento sobre mí:
 * Estudiante de Astrología por 3 años, lástima que no sea una carrera profesional.
 * Diplomado en diseño e impresión 3D, Uniacc , Santiago de Chile
 * Relator de Desarrollo de aplicaciones móviles en Android. 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agusCode88&hide_progress=true)](https://github.com/agusCode88/github-readme-stats)
 
 
 
