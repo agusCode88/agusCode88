@@ -27,7 +27,14 @@ Te cuento sobre mí:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-  ### CONTACT
+
+### Technologies
+
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+
+
+  ### Contact
 [![Gmail Badge](https://img.shields.io/badge/-agus.romero.salazar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agus.romero.salazar@gmail.com)](mailto:agus.romero.salazar@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-agustinRomeroSalazar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agustin-romero-salazar-01254465/)](https://www.linkedin.com/in/agustin-romero-salazar-01254465/)
 
