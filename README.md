@@ -27,6 +27,10 @@ Te cuento sobre mí:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+  ### CONTACT
+[![Gmail Badge](https://img.shields.io/badge/-agus.romero.salazar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agus.romero.salazar@gmail.com)](mailto:agus.romero.salazar@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-agustinRomeroSalazar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agustin-romero-salazar-01254465/)](https://www.linkedin.com/in/agustin-romero-salazar-01254465/)
+
 
 <a href="https://github.com/agusCode88/agusCode88">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusCode88&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
@@ -37,13 +41,6 @@ Te cuento sobre mí:
 
 
 
-[![Gmail Badge](https://img.shields.io/badge/-agus.romero.salazar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agus.romero.salazar@gmail.com)](mailto:agus.romero.salazar@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-agustinRomeroSalazar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agustin-romero-salazar-01254465/)](https://www.linkedin.com/in/agustin-romero-salazar-01254465/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/agusCode88)](https://github.com/agusCode88)
-
-
-[instagram]: (https://www.instagram.com/agus.code/)
-[linkedin]: (https://www.linkedin.com/in/agustin-romero-salazar-01254465/)
 
 Feliz codigo!
 
