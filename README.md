@@ -1,5 +1,8 @@
 ### Hola soy AgusCode88 👋
 
+<img src="https://i.postimg.cc/nztg7Q93/banner.png" width="30px" height="30px" />
+
+
 Te cuento sobre mí:
 
 - 🔭 Trabajé como relator de aplicaciones Android en el Bootcamp Android Andrés Bello. 
