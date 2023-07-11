@@ -1,6 +1,6 @@
 ### Hola soy AgusCode88 👋
 
-<img src="https://i.postimg.cc/nztg7Q93/banner.png" width="1024px" height="468px" />
+<img src="https://i.postimg.cc/nztg7Q93/banner.png" width="1024px" height="268px" />
 
 
 Te cuento sobre mí:
