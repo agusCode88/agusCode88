@@ -5,7 +5,7 @@
 
 Te cuento sobre mí:
 
-- 🔭 Trabajé como relator de aplicaciones Android en el Bootcamp Android Andrés Bello. 
+- 🔭 Relator de curso de aplicaciones Android formato Bootcamp. 
 - 👯 Busco colaborar en proyectos donde podamos trabajar en equipo.
 - 🤔 Me dediqué por 7 años a la programación de aplicaciones móviles
 -    Estudié 3 años Astrología.
@@ -16,9 +16,8 @@ Te cuento sobre mí:
 
 * Titulado como Ingeniero de Ejecución en informática de la Pontificia Católica de Valparaiso, Chile
 * Scrum Master certificado en el año 2018
-* Estudiante de Astrología por 3 años, lástima que no sea una carrera profesional.
 * Diplomado en diseño e impresión 3D, Uniacc , Santiago de Chile
-* Relator de Desarrollo de aplicaciones móviles en Android.
+* Relator de Desarrollo de aplicaciones móviles en Android en Universidad Andrés Bello.
 
   ### Languages
 
