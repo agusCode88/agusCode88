@@ -10,7 +10,7 @@ Te cuento sobre mí:
 - 🤔 Me dediqué por 7 años a la programación de aplicaciones móviles
 -    Estudié 3 años Astrología.
 -    Estudié 1 año Tatot de Marsella.
-- 💬 Pregúntame sobre :  Android - Git - Worpdress - Android Studio - Metodología Scrum - Impresión 3D - Astrología - Tarot
+- 💬 Pregúntame sobre :  Android - Git - Worpdress - Android Studio - Metodología Scrum - Impresión 3D 
 
 -⚡ Logros de mi carrera: 
 
